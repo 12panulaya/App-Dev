@@ -5,7 +5,7 @@ My First Repository
 ## Why I Love It:
 - A heartwarming story about ohana (family), which means no one gets left behind.
 - Combines humor, adventure, and emotional moments beautifully.
-- Features an adorable alien (*Experiment 626*) and his journey of finding a family.
+- Features an adorable alien (*Experiment 626*) and his journey of finding a family. 
 
 ## Favorite Characters:
 1. Stitch (Experiment 626): Mischievous, funny, and surprisingly lovable.
